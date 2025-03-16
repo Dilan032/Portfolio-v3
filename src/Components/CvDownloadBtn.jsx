@@ -5,7 +5,7 @@ function CvDownloadBtn() {
     <div>
         <div class="mt-3">
         {/* Download My CV Button */}
-            <a href="path_to_your_cv.pdf" className="download-btn" download>
+            <a href="/DilanKanishka.pdf" className="download-btn" download>
                 <i className="fas fa-file-download"></i>
                     Download My CV
             </a>
