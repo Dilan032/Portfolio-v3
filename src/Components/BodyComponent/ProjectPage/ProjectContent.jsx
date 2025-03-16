@@ -33,7 +33,7 @@ function ProjectContent() {
                 technical skills, showcasing my growth and passion for full-stack development with a modern, user-friendly design. 
                     <br />
                     <GithubBtn
-                      link={"https://github.com/Dilan032/Portfolio-v2"}
+                      link={"https://github.com/Dilan032/Portfolio-v3"}
                       className={"btn btn-outline-primary btn-sm mt-2"}
                       btnName={"GitHub Repo ↗"}
                     />
