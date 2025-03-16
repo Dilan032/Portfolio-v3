@@ -1,8 +1,14 @@
 import React from 'react'
+import MainLayout from '../Components/BodyComponent/MainLayout'
+import ProjectContent from '../Components/BodyComponent/ProjectPage/ProjectContent'
 
 function Projects() {
   return (
-    <div>Projects</div>
+    <>
+    <MainLayout>
+        <ProjectContent />
+    </MainLayout>
+    </>
   )
 }
 
