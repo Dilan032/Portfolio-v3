@@ -21,6 +21,8 @@ body {
   z-index: -1;  /* Make sure particles are in the background */
 }
 
+.fs-7 { font-size: 0.75rem; }
+
 .nav-link {
   color: rgb(255, 255, 255) !important;  
 }
