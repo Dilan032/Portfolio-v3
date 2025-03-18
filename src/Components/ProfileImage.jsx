@@ -11,7 +11,7 @@ function ProfileImage() {
 
         {/* name */}
         <div className='text-center text-white'>
-            <span>Junior software engineer</span>
+            <span>Aspiring Junior software engineer</span>
             <h2>Dilan Kanishka</h2>
         </div>
     </div>

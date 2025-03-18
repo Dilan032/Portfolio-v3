@@ -9,7 +9,7 @@ function ExperienceContent() {
     {/* Experience Item */}
     <div className="experience">
         <div className="shadow-sm rounded-3 border-0 bg-white text-center py-2" style={{"--bs-bg-opacity": "0.10"}}>
-            <h3 className="fw-bold">Trainee Software Engineer</h3>
+            <h3 className="fw-bold">Software Engineer Intern</h3>
             <h5 className="fw-bold">Nanosoft Solutions (Pvt)Ltd</h5>
 
             <p><span className="fw-semibold">From:</span> 2024/08/01 <span className="fw-semibold">To:</span> 2025/01/31 
