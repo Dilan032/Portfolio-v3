@@ -6,7 +6,7 @@ function ProfileImage() {
     <div>
         {/* Profile Image Container */}
         <div className="position-relative p-3 rounded-circle mb-4" style={{ background: "rgba(255, 255, 255, 0.2)", backdropFilter: "blur(10px)", boxShadow: "0px 10px 30px rgba(0,0,0,0.1)"}}>
-            <img src={profileImg} alt="Dilan Kanishka - Software Engineer in Sri Lanka" className="img-fluid rounded-circle shadow" />
+            <img src={profileImg} alt="Dilan Kanishka - Software Engineer in Sri Lanka" loading="lazy" className="img-fluid rounded-circle shadow" />
         </div>
 
         {/* name */}
