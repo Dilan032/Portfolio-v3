@@ -15,10 +15,10 @@ function ProjectContent() {
                 <p className="card-text">
                     A seamless web application for handling banking issues efficiently. 
                     Users submit complaints, admins review and take action, and super admins oversee escalations. 
-                    <br />
+                    <br /><br />
                     <GithubBtn
                       link={"https://github.com/Dilan032/Bank-Complaining-Web-Appilaction"}
-                      className={"btn btn-outline-primary btn-sm mt-2"}
+                      className={"btn btn-primary btn-sm mt-2"}
                       btnName={"GitHub Repo ↗"}
                     />
                 </p>
@@ -34,7 +34,7 @@ function ProjectContent() {
                     <br />
                     <GithubBtn
                       link={"https://github.com/Dilan032/Portfolio-v3"}
-                      className={"btn btn-outline-primary btn-sm mt-2"}
+                      className={"btn btn-primary btn-sm mt-2"}
                       btnName={"GitHub Repo ↗"}
                     />
                 </p>
@@ -50,7 +50,7 @@ function ProjectContent() {
                     <br />
                     <GithubBtn
                       link={"https://github.com/Dilan032/Task-Management-web-system"}
-                      className={"btn btn-outline-primary btn-sm mt-2"}
+                      className={"btn btn-primary btn-sm mt-2"}
                       btnName={"GitHub Repo ↗"}
                     />
                 </p>
@@ -63,10 +63,10 @@ function ProjectContent() {
                 <p className="card-text">
                 A user-friendly web application showcasing travel packages in Sri Lanka. 
                 Explore detailed itineraries, book packages, and manage bookings effortlessly.
-                    <br />
+                    <br /><br />
                     <GithubBtn
                       link={"https://github.com/Dilan032/Travel-Package-Booking-Web-Application"}
-                      className={"btn btn-outline-primary btn-sm mt-2"}
+                      className={"btn btn-primary btn-sm mt-2"}
                       btnName={"GitHub Repo ↗"}
                     />
                 </p>
@@ -82,7 +82,7 @@ function ProjectContent() {
                     <br />
                     <GithubBtn
                       link={"https://github.com/Dilan032/Loyalty-application"}
-                      className={"btn btn-outline-primary btn-sm mt-2"}
+                      className={"btn btn-primary btn-sm mt-2"}
                       btnName={"GitHub Repo ↗"}
                     />
                 </p>
@@ -103,7 +103,7 @@ function ProjectContent() {
                     />
                     <GithubBtn
                       link={"https://github.com/Dilan032/WebBased-Game-and-WebSite"}
-                      className={"btn btn-outline-primary btn-sm mt-2"}
+                      className={"btn btn-primary btn-sm mt-2"}
                       btnName={"GitHub Repo ↗"}
                     />
                 </p>
@@ -119,7 +119,7 @@ function ProjectContent() {
                     <br />
                     <GithubBtn
                       link={"https://github.com/Dilan032/API-for-holcemlk-banker-dataentry"}
-                      className={"btn btn-outline-primary btn-sm mt-2"}
+                      className={"btn btn-primary btn-sm mt-2"}
                       btnName={"GitHub Repo ↗"}
                     />
                 </p>
@@ -135,7 +135,7 @@ function ProjectContent() {
                     <br />
                     <GithubBtn
                       link={"https://github.com/Dilan032/API-for-Cash-Collector-Mobile-App"}
-                      className={"btn btn-outline-primary btn-sm mt-2"}
+                      className={"btn btn-primary btn-sm mt-2"}
                       btnName={"GitHub Repo ↗"}
                     />
                 </p>
@@ -150,7 +150,7 @@ function ProjectContent() {
                     <br />
                     <GithubBtn
                       link={"https://github.com/Dilan032/nanosoft_banker_images_API"}
-                      className={"btn btn-outline-primary btn-sm mt-2"}
+                      className={"btn btn-primary btn-sm mt-2"}
                       btnName={"GitHub Repo ↗"}
                     />
                 </p>

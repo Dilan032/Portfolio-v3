@@ -20,7 +20,7 @@ function MainLayout(props) {
                 </div>
                 <div className="col-12 col-md-8 mt-4">
                     <Navbar />
-                        <div className="bg-white p-4 mt-4 rounded-3 shadow-lg text-justify" style={{ "--bs-bg-opacity": "0.75" }}>
+                        <div className="p-4 mt-4 rounded-3 shadow-lg text-justify" style={{ "--bs-bg-opacity": "0.75", backgroundColor: "#3d4878", boxShadow: "0 0 20px 5px rgba(61, 72, 120, 0.6)" }}>
                             
                             {/* page content */}
                             {props.children}

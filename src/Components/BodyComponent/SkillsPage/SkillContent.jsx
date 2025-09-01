@@ -12,12 +12,12 @@ function SkillContent() {
         <div className="row mt-4 px-2">
           <div className="col">
             <SkillCard>
-              <h5 classNameName="card-title fw-bold">Frontend</h5>
+              <h5 classNameName="card-title fw-bold">Frontend Development</h5>
                   <p classNameName="card-text">
                     <ul>
                         <li>Html & Css</li>
-                        <li>React.js <small>(Learning)</small></li>
-                        <li>ShadCN/UI<small>(Learning)</small></li>
+                        <li>React.js <small>(Beginer)</small></li>
+                        <li>ShadCN/UI<small></small></li>
                         <li>Tailwind css</li>
                         <li>Bootstrap</li>
                     </ul>
@@ -26,11 +26,12 @@ function SkillContent() {
           </div>
           <div className="col">
             <SkillCard>
-            <h5 class="card-title fw-bold">Backend</h5>
+            <h5 class="card-title fw-bold">Backend Development</h5>
                 <p class="card-text">
                    <ul>
+                       <li>Php</li>
                        <li>Laravel</li>
-                       <li>Node.js & Express.js</li>
+                       <li>Node.js</li>
                        <li>MySQL</li>
                        <li>API Development</li>
                     </ul>
@@ -43,13 +44,12 @@ function SkillContent() {
         <div className="row mt-4 px-2">
           <div className="col">
             <SkillCard>
-              <h5 class="card-title fw-bold">Tools</h5>
+              <h5 class="card-title fw-bold">Development Tools</h5>
                   <p class="card-text">
                     <ul>
                         <li>Git</li>
                         <li>Postman</li>
                         <li>Figma</li>
-                        <li>SQLyog</li>
                       </ul>
                   </p>
               </SkillCard>

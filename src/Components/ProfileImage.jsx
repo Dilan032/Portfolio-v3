@@ -1,5 +1,5 @@
 import React from 'react'
-import profileImg from '../assets/profileImg.jpg'
+import profileImg from '../assets/profileImg.webp'
 
 function ProfileImage() {
   return (
